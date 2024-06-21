@@ -1,5 +1,5 @@
 # PERL-0
-Cette commande, écrit en Pascal (Turbo Pascal ou Free Pascal), permet de lancer le langage de programmation Perl.
+Cette commande, écrit en Pascal (Turbo Pascal ou Free Pascal), permet de lancer un interpréteur de langage de programmation Perl.
 
 <h3>Syntaxe</h3>
 
